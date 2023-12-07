@@ -7,3 +7,6 @@ For PyPoll the following extra resources were used (still no animals hurt);
   Stack overflow for assistance with converting dictionary to list
   Python.org for hopefully correct syntax usage of the functions
   Bootcamp notes for the rest.
+
+  Files uploaded. Main folders called PyBank and PyPoll each containing folders called Resources and Analysis.
+  Main.py located in each main folder.
